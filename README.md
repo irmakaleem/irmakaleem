@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **irmakaleem12@gmail.com**
 
-- ⚡ Fun fact **i think sometimes i did silly things :)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
