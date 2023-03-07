@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm irma</h1>
 <h3 align="center">BSIT student</h3>
 
-- 🔭 I’m currently working on **Airlift**
-
-- 🌱 I’m currently learning **java,html,css**
+- 🌱 I’m currently learning **python**
 
 - 💬 Ask me about **c++, c, HTML, CSS, java**
 
