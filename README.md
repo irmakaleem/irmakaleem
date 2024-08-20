@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm irma</h1>
 <h3 align="center">BSIT student</h3>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **c++, c, HTML, CSS, java, figma,wordpress**
+- 💬 Ask me about **c++, c, HTML, CSS, Tailwind CSS, JavaScript, Java, figma ,wordpress,**
 
 - 📫 How to reach me **irmakaleem12@gmail.com**
 
